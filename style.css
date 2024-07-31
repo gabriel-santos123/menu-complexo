@@ -2,12 +2,12 @@ li{
     display: inline;
     padding: 1em 2em 3em 2em;
     float: right;
+    text-align: center;
 }
 a{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000;
     text-decoration: none;
-    text-align: center;
     font-size: 25px;
 }
 h1{
