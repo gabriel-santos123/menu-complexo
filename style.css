@@ -8,12 +8,14 @@ a{
     color: #000;
     text-decoration: none;
     text-align: center;
+font-size: 25px;
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     font-style: normal;
     color: #000;
+    font-size: 50px;
 }
 a:hover{
     background-color:#A9A9A9;
